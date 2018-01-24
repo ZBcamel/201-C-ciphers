@@ -1,0 +1,17 @@
+Name:Yuntian Zhang
+ONE Card number:1458849
+CCID:yuntian1
+lecture section:LEC B1
+instructor's name:Nadi,Sarah
+lab section:LAB H03
+colleagues:Zhipeng Zhang
+I couldn't find a way to read the whole mapping file and he gave me a hint that I should use "feof(fp)".
+Later I read more about how to use this function online.
+
+Summary:The program can do two things. First encryp English into numbers. 
+Second decryp numbers encryped by ths program back to plain English.
+
+How to:Using make to compile 
+./to cipher to run
+make clean to clean.
+
